@@ -1,5 +1,10 @@
 # React Native Real Estate App
 
+## Main Features
+
+- Expo Router
+- NativeWind
+
 1. Install dependencies
 
    ```bash
