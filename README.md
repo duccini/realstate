@@ -1,4 +1,4 @@
-# E:\React_Native\realstate
+# React Native Real Estate App
 
 1. Install dependencies
 
