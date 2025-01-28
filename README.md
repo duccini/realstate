@@ -10,7 +10,7 @@
 - Nativewind
 - Appwrite
 
-## 👨‍💻 Features
+## 🚀 Features
 
 - Authentication with Google: Secure and seamless user sign-ins using Google’s authentication service.
 
@@ -25,6 +25,8 @@
 - Centralized Data Fetching: Custom-built solution inspired by TanStack’s useQuery for efficient API calls.
 
 - Component reusability and code architecture
+
+## 👨‍💻 Run the Project
 
 1. Install dependencies
 
